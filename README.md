@@ -1,9 +1,9 @@
 # GAIH Python Course
 ![](img/logo.png)
 
-Course Date:" 01.02.2021
+Course Date: 01.02.2021
 
-Name:" Erdem 
+Name: Erdem 
 
 Surname: Özen  
 
