@@ -2,8 +2,8 @@
 ![](img/logo.png)
 
 **Course Date:** 01.02.2021
-**Name:** ÖZEN  
-**Surname:** Cobanov  
+**Name:** Erdem 
+**Surname:** Özen  
 **Email:** ozen.erdem@outlook.com.tr
 
 ## Project 
