@@ -13,4 +13,4 @@ Email: ozen.erdem@outlook.com.tr
 I added the assignment given in this course and my final project to my repository.
 
 ### Certification
-![](img/Py_certificate.png)
+![](img/Py_Certificate.png)
