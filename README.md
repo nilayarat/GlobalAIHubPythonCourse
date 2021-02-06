@@ -1,4 +1,4 @@
-# GAIH Student Repo
+# GAIH Python Course
 ![](img/logo.png)
 
 Course Date:" 01.02.2021
@@ -9,7 +9,7 @@ Surname: Özen
 
 Email: ozen.erdem@outlook.com.tr
 
-## Project 
+## Python Course 
 I added the assignment given in this course and my final project to my repository.
 
 ### Certification
